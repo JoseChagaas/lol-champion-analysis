@@ -23,7 +23,6 @@ lol-champion-analysis/
 ## 🚧 Próximos passos
 
 - Analisar tipos de dano por lane
-- Comparar papéis (roles) dominantes em cada posição
 - Verificar quais lanes recebem mais campeões novos
 - Adicionar gráficos com Seaborn ou Plotly
 - Criar dashboard interativo
