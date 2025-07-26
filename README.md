@@ -30,7 +30,7 @@ lol-champion-analysis/
 
 ## 🛠️ Tecnologias utilizadas
 
-- Python 3.x
+- Python 
 - Pandas
 - Matplotlib
 - Jupyter Notebook
