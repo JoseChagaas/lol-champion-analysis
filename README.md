@@ -11,14 +11,14 @@ Este repositório contém uma análise exploratória de dados (EDA) com foco nos
 - 📈 Dificuldade média dos campeões por lane (em escala de 1 a 3)
 
 ## 📁 Estrutura do projeto
-
+```
 lol-champion-analysis/
 │
 ├── notebooks/
 │ └── eda_lol.ipynb # Análise exploratória inicial
 │
 └── README.md
-
+```
 
 ## 🚧 Próximos passos
 
