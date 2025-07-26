@@ -16,10 +16,10 @@ lol-champion-analysis/
 │
 ├── notebooks/
 │ └── eda_lol.ipynb # Análise exploratória inicial
-│
+├── raw/
+|  └── 050625_LoL_champion_data.csv
 └── README.md
 ```
-
 ## 🚧 Próximos passos
 
 - Analisar tipos de dano por lane
