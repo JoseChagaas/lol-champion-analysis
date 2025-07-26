@@ -7,8 +7,9 @@ Este repositório contém uma análise exploratória de dados (EDA) com foco nos
 
 ## 🔍 Análises realizadas
 
-- 📊 Quantidade de campeões por lane (Top, Jungle, Middle, Bottom, Support)
+- 📊 Quantidade de campeões por lane (Top, Jungle, Middle, Atirador, Suporte)
 - 📈 Dificuldade média dos campeões por lane (em escala de 1 a 3)
+- 📊 Quantidade de campeões lançados por ano
 
 ## 📁 Estrutura do projeto
 ```
@@ -22,8 +23,6 @@ lol-champion-analysis/
 ```
 ## 🚧 Próximos passos
 
-- Analisar tipos de dano por lane
-- Verificar quais lanes recebem mais campeões novos
 - Adicionar gráficos com Seaborn ou Plotly
 - Criar dashboard interativo
 
