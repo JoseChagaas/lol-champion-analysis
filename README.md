@@ -21,11 +21,6 @@ lol-champion-analysis/
 | └── 050625_LoL_champion_data.csv
 └── README.md
 ```
-## 🚧 Próximos passos
-
-- Adicionar gráficos com Seaborn ou Plotly
-- Criar dashboard interativo
-
 ## 🛠️ Tecnologias utilizadas
 
 - Python 
